@@ -1,0 +1,6 @@
+E:\c#\RestaurantWeb\RestaurantWeb\bin\RestaurantWeb.dll.config
+E:\c#\RestaurantWeb\RestaurantWeb\bin\RestaurantWeb.dll
+E:\c#\RestaurantWeb\RestaurantWeb\bin\RestaurantWeb.pdb
+E:\c#\RestaurantWeb\RestaurantWeb\obj\Debug\RestaurantWeb.csprojAssemblyReference.cache
+E:\c#\RestaurantWeb\RestaurantWeb\obj\Debug\RestaurantWeb.dll
+E:\c#\RestaurantWeb\RestaurantWeb\obj\Debug\RestaurantWeb.pdb
